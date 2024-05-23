@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blackhat-ghost
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java and PHP
-- 💞️ I’m looking to collaborate on a literally anyone
+- 💞️ I’m looking to collaborate with literally anyone
 - ⚡ Fun fact: After working out, it takes 5 hours for your body temperature to return to normal
 
 <!---
